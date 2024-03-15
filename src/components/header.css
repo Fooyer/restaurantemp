@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100px;
+    width: 85%;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+}
+
+.header li {
+    margin-left: 25px;
+    font-size:18px;
+}
+
+.header li a {
+    text-decoration: none;
+    color: #333;
+}
